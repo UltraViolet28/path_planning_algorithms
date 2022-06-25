@@ -8,4 +8,4 @@ The map image was treated as an occupancy grid with pixels as its nodes. The ini
 
 ### Results
 - #### A* Algorithm
-- #### Dijkstra's A;gorithm
+- #### Dijkstra's Algorithm
