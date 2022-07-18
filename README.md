@@ -14,4 +14,4 @@ Implemented on a simple map in openCV
 Implemented on a map in rviz.
 ![image](https://user-images.githubusercontent.com/88196192/179578684-99bce3ec-1fd5-444b-b6ac-fa5e14ce3b51.png)
 
-- #### Dijkstra's Algorithm
+
