@@ -8,4 +8,10 @@ The map image was treated as an occupancy grid with pixels as its nodes. The ini
 
 ### Results
 - #### A* Algorithm
+Implemented on a simple map in openCV
+![image](https://user-images.githubusercontent.com/88196192/179578813-1c8f3bd3-ccdb-4ceb-9898-2b2bfe9ea8fe.png)
+
+Implemented on a map in rviz.
+![image](https://user-images.githubusercontent.com/88196192/179578684-99bce3ec-1fd5-444b-b6ac-fa5e14ce3b51.png)
+
 - #### Dijkstra's Algorithm
